@@ -121,14 +121,16 @@ int main(void)
 OFF :
 
 
-![Uploading WhatsApp Image 2026-02-06 at 10.27.04 AM.jpeg…]()
+![WhatsApp Image 2026-02-06 at 10 27 04 AM](https://github.com/user-attachments/assets/a4cc5a62-3aac-4f45-ae35-d35aa0047521)
+
 
 
 
 ON:
 
-![Uploading WhatsApp Image 2026-02-06 at 10.26.44 AM.jpeg…]()
 
+
+![WhatsApp Image 2026-02-06 at 10 26 44 AM](https://github.com/user-attachments/assets/83b8f80d-4629-4bed-9b04-d41fad3b7934)
 
 
 ## Result
